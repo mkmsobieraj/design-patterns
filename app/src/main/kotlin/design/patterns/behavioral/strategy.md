@@ -1,3 +1,8 @@
+# About strategy
+
+It is basically very simple composition, and in fact it is very similar to,
+for example adapter, bridge, and state patterns. What is the difference
+
 # Why to use?
 
 - Gives us nice way to isolate some (hopefully consistent) part of 
