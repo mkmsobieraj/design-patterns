@@ -13,4 +13,5 @@ fulfill nicely fulfill open/closed principle
 
 # Why not to use?
 
-- cake pattern ;) 
+- cake pattern?
+- reader monad?
